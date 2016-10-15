@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding='utf-8' ?>
+<form>
+    <input name='name' type='notnull' msg='不能为空'/>
+    <input name='price' type='notnull' msg='价格不能为空'/>
+</form>

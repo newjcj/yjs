@@ -1,0 +1,7 @@
+jd_yingchao    g17869098
+
+https://pop.jd.com/userLoginAction.action?time=45346363636
+
+cookie存放位置：C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\cookies
+
+火狐cookie保存的位置：C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\7u0w2lyp.default

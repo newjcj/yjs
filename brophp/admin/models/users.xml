@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<form>
+    <input name="name" type="unique" msg="用户已经存在！" />
+    <input name="name" type="notnull" msg="用户不能为空！" />
+    <input name="code" type="vcode" msg="验证码错误" /> 
+   
+</form>

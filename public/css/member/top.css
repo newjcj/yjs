@@ -1,0 +1,19 @@
+
+body{
+	margin:0px;
+	padding:0px;
+	background: #ccc;
+	overflow-x:hidden;
+	overflow-y:hidden;
+}
+.left{
+	display:inline-block;
+	width:10%;
+	height:100%;
+}
+
+.right{
+	width:15%;
+	display:inline-block;
+	background:#FAEBEB;
+}

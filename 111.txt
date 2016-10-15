@@ -1,0 +1,1 @@
+https://api.jd.com/routerjson?access_token=276be732-79e5-44c8-9d5e-898fd7259a82&app_key=5C89FB56CEB21A85EB6A8A0043304F10&app_secret=b81e7718c3ea4c4791a4da59e14088b1&method=jingdong.category.read.findByPId&timestamp=2016-09-09%2022:50:52&v=2.0&360buy_param_json={%22parentCid%22:%22738%22}&sing=1E63380A968FEB61422C1CF659F9CA13

@@ -1,0 +1,32 @@
+body{
+    margin:0;
+    padding:0;
+    background:#eee;
+}
+.login{
+	margin:0 auto;
+}
+.login form{
+	width:600px;
+	border:1px solid red;
+	margin:0 auto;
+	background:#ccc;
+	margin-top:200px;
+	text-align:center;
+	line-height:30px;
+	padding-top:30px;
+	padding-bottom:50px;
+	
+}
+.login form input{
+	margin-top:10px;
+}
+.login form input[name='captcha']{
+	width:100px;
+}
+.login form h1{
+	font:32px 黑体;
+}
+.login form span{
+	font:16px 微软雅黑;
+}
