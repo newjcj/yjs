@@ -1,0 +1,23 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed');
+function P($dump=FALSE){
+	if($dump != FALSE){
+		if(is_array($dump)){
+			echo "<pre>";
+			print_r($dump);
+			echo "</pre>";
+		}else{
+			echo "<pre>";
+			var_dump($dump);
+			echo "</pre>";
+		}
+	}else{
+		echo "未传打印参数";
+	}
+}
+function access($uid=FALSE){
+    return $uid;
+}
+//格式化商品剩余时间
+function G_TIME($num){
+	return 300;
+}
